@@ -92,7 +92,7 @@ f)  One  Must   Know   JDOLLAR,  JAVA, C@ ,WXML  to  focus  this  Technology.
 BIBBLICAL  REFERENCES:
 ----------------------
 
-Refer   Jdollar  and  C@  and  Jemin  Information  technology
+Refer   Jdollar  and  C@  and  Jemin  Information  technology  websites..
 
 
 
