@@ -2,7 +2,7 @@
 
 Introduction:
 --------------
-NSLASH    is    a    multilanguage    support   and    it  is   mainly   used    with   JAVA   Technology
+NSLASH    is    a    multilanguage    support   and    it  is   mainly   used    with   JAVA(JDk1.6 only)   Technology
 NSLASH  Technology  is  invented  in   Jdollar  and   C@  Technology  in  April 2015.
 NSLASH  is    the  Advanced   technology  with  VVMC chained  Framework.
 NSLASH   Uses  WcatServer  to   run   .Nslash  Programs. .Nslash  supports  three  inputs 
@@ -72,7 +72,7 @@ it  will  act   as  a  Controller. This   Syntax  will  also   Generate
 Advantages:
 ----------
 
-a)  Mostly   Used   in  Software  Developement,  JAVA technolgy,Mobile,  and  Cloud  Computing.
+a)  Mostly   Used   in  Software  Developement,  JAVA(Jdk1.6) technolgy,Mobile,  and  Cloud  Computing.
 
 b)  NSLASH  generates   the  combined  output  of  C Program  and
 
@@ -81,12 +81,12 @@ OOPS  Program. (combinations   of  two outputs)
 c)  IT  also  Interacts  with  WXML  and  Behaves  like  UserFriedly  Framework.
 ie)  We  can Design  a  HTML  Form , TABLE, REPORTS  ,etc  in  few  minutes.
 
-d)  It  is  mainly  used  in  complexity  Programs  and  Projects  with  JAVA,Android,
+d)  It  is  mainly  used  in  complexity  Programs  and  Projects  with  JAVA(Jdk1.6),Android,
 and  WSIT  Technologies  (Multilangauage  support).
 
 e) It  also  includes  the  Advantages  of  C@.
 
-f)  One  Must   Know   JDOLLAR,  JAVA, C@ ,WXML  to  focus  this  Technology.
+f)  One  Must   Know   JDOLLAR,  JAVA(Jdk1.6), C@ ,WXML  to  focus  this  Technology.
 
 
 BIBBLICAL  REFERENCES:
