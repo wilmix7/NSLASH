@@ -81,7 +81,7 @@ OOPS  Program. (combinations   of  two outputs)
 c)  IT  also  Interacts  with  WXML  and  Behaves  like  UserFriedly  Framework.
 ie)  We  can Design  a  HTML  Form , TABLE, REPORTS  ,etc  in  few  minutes.
 
-d)  It  is  mainly  used  in  complexity  Programs  and  Projects  with  JAVA(Jdk1.6),Android,
+d)  It  is  mainly  used  in  complexity  Programs  and  Projects  with Android,
 and  WSIT  Technologies  (Multilangauage  support).
 
 e) It  also  includes  the  Advantages  of  C@.
