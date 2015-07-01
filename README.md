@@ -3,7 +3,7 @@
 Introduction:
 --------------
 NSLASH    is    a    multilanguage    support   and    it  is   mainly   used    with   JDollar  and  C  Technology
-NSLASH  Technology  is  invented  in   Jdollar  and   C@  Technology  in  April 2015.
+NSLASH  Technology  is  invented  in   Jdollar  and   C@  Technology  in  April 2015 by  Wilmix  Jemin  J.
 NSLASH  is    the  Advanced   technology  with  VVMC chained  Framework.
 NSLASH   Uses  WcatServer  to   run   .Nslash  Programs. .Nslash  supports  three  inputs 
 which   are  .Nslash   with   C Programs  ,  .NSlash  with  Jdollar  oops  ,  .Nslash  with  Model  and  Controller
