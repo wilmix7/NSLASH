@@ -75,7 +75,7 @@ b)  NSLASH  generates   the  combined  output  of  oops  like program  and
 
 OOPS  Program. (combinations   of  two outputs).
 [Since  C  and  C@    fails   to support  more  application and
-JDollar  satifies  all the  conditions.
+JDollar  satisfies  all the  conditions.
 So  Using  C /C@ technology  you can't  build  a   large  framework.]
 
 
