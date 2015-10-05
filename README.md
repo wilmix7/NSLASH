@@ -8,8 +8,7 @@ NSLASH  is    the 12 th Most  Advanced   technology  with  VVMC chained  Framewo
 NSLASH   Uses  WcatServer  to   run   .Nslash  Programs. 
 NSlash  with  Jdollar  oops  ,  .Nslash  with  Model  and  Controller
 Programs. .Nslash  uses  VVMC->VVMC/... (View with Model/view/Controller  with   View with Model/view/Controller
-....). with  Chaining  support and  it also generates   .Class  file. So NSLASH   is  a  VVMC/ Chained  Framework  technology  and  Advanced  Technology  like   JSAUCER  and  JDollar.
-
+....). with  Chaining  support and  it also generates   .Class  file. So NSLASH   is  a  VVMC/ Chained  Framework  technology.
 
 Syntax  of   NSLASH  with  OOPS  Code.(view)
 ----------------------------------
@@ -82,9 +81,7 @@ So  Using  C /C@ technology  you can't  build  a   large  framework.]
 c)  IT  also  Interacts  with  WXML  and  Behaves  like  UserFriedly  Framework.
 ie)  We  can Design  a  HTML  Form , TABLE, REPORTS  ,etc  in  few  minutes.
 
-d)  It  is  mainly  used  in  complexity  Programs  and  Projects  with Android,
-and  WSIT  Technologies  (Multilangauage  support).
-
+d)  It  is  mainly  used  in  complexity  Programs.
 e)  One  Must   Know   JDOLLAR, WXML  to  focus  this  Technology.
 
 
