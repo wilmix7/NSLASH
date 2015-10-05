@@ -3,23 +3,22 @@
 Introduction:
 --------------
 NSLASH    is    a    multilanguage    support   and    it  is   mainly   used    with   JDollar.
-NSLASH  Technology  is  invented  in   Jdollar  and   C@  Technology  in  April 2015 by  Wilmix  Jemin  J.
+NSLASH  Technology  is  invented  in   Jdollar  in  April 2015 by  Wilmix  Jemin  J.
 NSLASH  is    the 6th Most  Advanced   technology  with  VVMC chained  Framework.
-NSLASH   Uses  WcatServer  to   run   .Nslash  Programs. .Nslash  supports  three  inputs 
-which   are  .Nslash   with   C like  syntax  Programs.
+NSLASH   Uses  WcatServer  to   run   .Nslash  Programs. 
 NSlash  with  Jdollar  oops  ,  .Nslash  with  Model  and  Controller
 Programs. .Nslash  uses  VVMC->VVMC/... (View with Model/view/Controller  with   View with Model/view/Controller
 ....). with  Chaining  support and  it also generates   .Class  file. So NSLASH   is  a  VVMC/ Chained  Framework  technology  and  Advanced  Technology  like   JSAUCER  and  JDollar.
 
 
-Syntax  of   NSLASH  with  C  Code.(view)
+Syntax  of   NSLASH  with  OOPS  Code.(view)
 ----------------------------------
 
 <NSLASH>
 
 <%
 
-/*  C  code  */
+/* NSLASH  CODE */
 
 %>
 
@@ -72,9 +71,13 @@ Advantages:
 
 a)  Mostly   Used   in  Software  Developement,Mobile,  and  Cloud  Computing.
 
-b)  NSLASH  generates   the  combined  output  of  C like Program  and
+b)  NSLASH  generates   the  combined  output  of  oops  like program  and
 
-OOPS  Program. (combinations   of  two outputs)
+OOPS  Program. (combinations   of  two outputs).
+[Since  C  and  C@    fails   to support  more  application and
+JDollar  satifies  all the  conditions.
+So  Using  C /C@ technology  you can't  build  a   large  framework.]
+
 
 c)  IT  also  Interacts  with  WXML  and  Behaves  like  UserFriedly  Framework.
 ie)  We  can Design  a  HTML  Form , TABLE, REPORTS  ,etc  in  few  minutes.
@@ -82,15 +85,13 @@ ie)  We  can Design  a  HTML  Form , TABLE, REPORTS  ,etc  in  few  minutes.
 d)  It  is  mainly  used  in  complexity  Programs  and  Projects  with Android,
 and  WSIT  Technologies  (Multilangauage  support).
 
-e) It  also  includes  the  Advantages  of  C@.
-
-f)  One  Must   Know   JDOLLAR, WXML  to  focus  this  Technology.
+e)  One  Must   Know   JDOLLAR, WXML  to  focus  this  Technology.
 
 
 BIBBLICAL  REFERENCES:
 ----------------------
 
-Refer   Jdollar  and  C@  and  Jemin  Information  technology  websites..
+Refer   Jdollar  and  Jemin  Information  technology  websites..
 
 
 
