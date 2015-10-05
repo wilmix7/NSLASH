@@ -1,0 +1,34 @@
+Question:
+---------
+
+Write  a   simple  Program   to  print  the text  that kelvin  plays   chess  game.
+------------------------------------------------------------------------
+
+<NSLASH>
+
+
+<%
+
+public class wil{ 
+
+
+ public void  NSLASH-Main( ) throws <EXE>
+
+{
+
+
+Nslash.println("kelvin  plays  chess  game");
+}
+
+}
+
+
+
+%>
+
+</NSLASH>
+
+
+Output:
+
+Kelvin  plays  chess  game
