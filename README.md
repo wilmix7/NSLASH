@@ -7,7 +7,7 @@
 Introduction:
 --------------
 NSLASH    is    a    multilanguage    support  FRAMEWORK TECHNOLOGY  and    it  is   mainly   used    with   JAS.
-NSLASH  Technology  is  invented  in   JAS  in  April 2015 by  Wilmix  Jemin  J.
+NSLASH  Technology  is  invented  in   JDollar  in  April 2015 by  Wilmix  Jemin  J.
 NSLASH  is    the 12 th Most  Advanced   technology  with  VVMC chained  Framework.
 NSLASH   Uses  WilmixcatServer  to   run   .Nslash  Programs. 
 NSlash  with  JAS  oops  ,  .Nslash  with  Model  and  Controller
